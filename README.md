@@ -39,10 +39,7 @@
       <td>220 kg</td>
       <td>200 kg</td>
     </tr>
-    <tr>
-      <td>More plates, more dates</td>
-      
-    </tr>
+   
    
   </tbody>
 </table>

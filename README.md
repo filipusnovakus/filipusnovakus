@@ -26,7 +26,7 @@
 
 <!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
- 
+ <thead>
     <tr>
       <th>Benchpress</th>
       <th>Deadlift</th>
@@ -39,7 +39,7 @@
       <td>220 kg</td>
       <td>200 kg</td>
     </tr>
-   
+   <tbody>
    
 </table>
 

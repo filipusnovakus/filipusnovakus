@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmozabse&theme=highcontrast" alt="kmozabse" /></p>
 <p><img  align="center" src="https://user-images.githubusercontent.com/91119101/204295733-d749b423-63d0-41e5-b6ae-0dd251f1b8cf.gif" alt="kmozabse" </p>
-![dumb-ding](https://user-images.githubusercontent.com/91119101/204295733-d749b423-63d0-41e5-b6ae-0dd251f1b8cf.gif)
+

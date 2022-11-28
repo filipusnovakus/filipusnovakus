@@ -28,27 +28,22 @@
 <table class="GeneratedTable">
   <thead>
     <tr>
-      <th>Header</th>
-      <th>Header</th>
-      <th>Header</th>
+      <th>Benchpress</th>
+      <th>Deadlift</th>
+      <th>Squad</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>145 kg</td>
+      <td>220 kg</td>
+      <td>200 kg</td>
     </tr>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td>More plates, more dates</td>
+      
     </tr>
-    <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
-    </tr>
+   
   </tbody>
 </table>
 
